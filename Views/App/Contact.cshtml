@@ -1,0 +1,49 @@
+﻿@model ContactViewModel
+@{
+    ViewBag.Title = "Contact Us";
+}
+@section Scripts {
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script><script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+}
+
+<form method="post" class="form-horizontal col-lg-6 offset-3 ">
+    <div class="card card-body bg-light">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+       <div class="form-group ">
+            <label  asp-for="Name" > Name: </label>
+            <input type="text" class="form-control"  asp-for="Name"  placeholder="Enter Name"/>
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label  asp-for="PhoneNumber">Phone Number:</label>
+            <input type="text" class="form-control" asp-for= "PhoneNumber" placeholder="Enter Phone Number"/>
+            <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label  asp-for="Email">Email:</label>
+            <input type="email" class="form-control" asp-for="Email" placeholder="Enter email"/>
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label  asp-for="Subject">Subject:</label>
+            <input type="text" class="form-control" asp-for="Subject" placeholder="Enter Subject"/>
+            <span asp-validation-for="Subject" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label  asp-for="Message"> Message:</label>
+            <textarea  class="form-control" asp-for="Message"  placeholder="Enter Message here" rows="4"></textarea>
+            <span asp-validation-for="Message" class="text-danger"></span>
+        </div>
+    
+   
+        <div class=" mt-2" >
+            <div class="col-sm-12 text-sm-center">
+                <button type="submit" class=" col-sm-3  btn btn-primary"> <i class="fa-regular fa-message"></i> Send</button>
+            </div>
+        </div>
+        <div class="text-success">
+        @ViewBag.UserMessage
+        </div>
+    </div>
+</form>

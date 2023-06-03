@@ -1,0 +1,10 @@
+{
+  "include": [ "wwwroot/ts/**/*.ts" ], 
+  "compileOnSave": true, // when save file go and compile 
+  "compilerOptions": {
+    "module": "None", /* none means that every ts file compile alone not one module*/
+    "allowJs": true,
+    "sourceMap": true /* true means use debug mode*/
+  }
+   
+}

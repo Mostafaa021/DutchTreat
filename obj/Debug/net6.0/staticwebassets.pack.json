@@ -1,0 +1,557 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DutchTreat.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DutchTreat.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\client\\3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets\\client\\3rdpartylicenses.txt"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\client\\favicon.ico",
+      "PackagePath": "staticwebassets\\client\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\client\\index.html",
+      "PackagePath": "staticwebassets\\client\\index.html"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\client\\main.703d82aefb966edd.js",
+      "PackagePath": "staticwebassets\\client\\main.703d82aefb966edd.js"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\client\\polyfills.cd7a76b5d16b6e1f.js",
+      "PackagePath": "staticwebassets\\client\\polyfills.cd7a76b5d16b6e1f.js"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\client\\runtime.726a12cf02269fc9.js",
+      "PackagePath": "staticwebassets\\client\\runtime.726a12cf02269fc9.js"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\client\\styles.ef46db3751d8e999.css",
+      "PackagePath": "staticwebassets\\client\\styles.ef46db3751d8e999.css"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-1595.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-1595.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-1935.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-1935.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-2344.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-2344.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-2351.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-2351.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-2391.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-2391.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-2860.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-2860.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-3066.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-3066.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-3137.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-3137.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-3138.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-3138.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-3262.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-3262.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-3276.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-3276.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-3298.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-3298.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-3307.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-3307.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-3340.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-3340.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-3341.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-3341.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-3477.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-3477.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-358.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-358.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-3934.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-3934.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-3981.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-3981.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-3982.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-3982.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-4019.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-4019.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-4050.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-4050.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-4057.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-4057.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-4096.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-4096.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-4119.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-4119.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-4674.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-4674.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-4691.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-4691.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-4717.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-4717.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-4833.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-4833.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-4885.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-4885.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-5033.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-5033.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-A-91.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-91.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-C-1747.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-C-1747.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-C-1768.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-C-1768.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-C-216.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-C-216.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-C-251.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-C-251.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-C-5.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-C-5.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-C-597.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-C-597.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\SK-C-6.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-C-6.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\img\\VanGogh.jpg",
+      "PackagePath": "staticwebassets\\img\\VanGogh.jpg"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\font-awesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.css"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\ts\\Shopper.js",
+      "PackagePath": "staticwebassets\\ts\\Shopper.js"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\ts\\Shopper.js.map",
+      "PackagePath": "staticwebassets\\ts\\Shopper.js.map"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\ts\\main.js",
+      "PackagePath": "staticwebassets\\ts\\main.js"
+    },
+    {
+      "Id": "D:\\Software Development\\Developing Courses\\Test\\Projects\\DutchTreat\\wwwroot\\ts\\main.js.map",
+      "PackagePath": "staticwebassets\\ts\\main.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DutchTreat.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DutchTreat.props",
+      "PackagePath": "build\\DutchTreat.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DutchTreat.props",
+      "PackagePath": "buildMultiTargeting\\DutchTreat.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DutchTreat.props",
+      "PackagePath": "buildTransitive\\DutchTreat.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

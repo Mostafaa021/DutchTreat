@@ -1,0 +1,55 @@
+﻿@model IEnumerable<Product>
+@section Scripts {
+    <script src="/client/polyfills.cd7a76b5d16b6e1f.js"></script>
+    <script src="/client/runtime.726a12cf02269fc9.js"></script>
+    <script src="~/client/main.a4b1f7df5734affb.js" asp-append-version="true"></script>
+}
+@section Head {
+    <link href="~/client/styles.ef46db3751d8e999.css" rel="stylesheet" />
+}
+<the-shop></the-shop>
+
+@*<h1>Shop</h1>
+<p>Count : @Model.Count()</p>
+<div class="container py-5">
+<div class="row" >
+    @foreach(var product in Model)
+    {
+        <div class="col-lg-3 col-md-4 mb-4 ">
+            <div class="card border bg-light rounded p-1 ">
+                    <img src="~/img/@(product.ArtId).jpg" class="card-img-top" alt="@product.Title" />
+                <div class="card-body d-flex flex-column">
+                    <div class="text-center mt-1">
+                        <h4 class="card-title">@product.Title</h4>
+                        <h6 class="card-text mb-1 pb-3">@product.Price</h6>
+                          
+                    </div>
+                    <div class="text-center">
+                        <div class="d-flex flex-column mb-4">
+                            <h5 calss="mb-0">@product.Category</h5>
+                            <h5 class="mb-0">@product.ArtDating</h5>
+                        </div>
+
+                        <div class="d-flex flex-column mb-4">
+                            <h5 class="mb-0">@product.Size</h5>
+                        </div>
+                        <div class="p-3 mx-n3 mb-4" style="background-color: #eff1f2;">
+                            <h5 class="mb-0">@product.Artist</h5>
+                            <h5 class="mb-0">@product.ArtistBirthDate.Year</h5>
+                            <h5 class="mb-0">@product.ArtistDeathDate.Year</h5>
+                            <h5 class="mb-0">@product.ArtistNationality</h5>
+                        </div>
+                    </div>
+
+                    <div class="d-flex flex-row">
+                        <button type="button" class="btn btn-primary flex-fill me-1" data-mdb-ripple-color="dark">
+                            Learn more
+                        </button>
+                        <button type="button" class="btn btn-danger flex-fill ms-1">Buy now</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+    </div>
+</div>*@

@@ -1,0 +1,36 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "jquery@3.7.0",
+      "destination": "wwwroot/lib/jquery/",
+      "files": [
+        "jquery.min.js",
+        "jquery.slim.js",
+        "jquery.slim.min.js",
+        "jquery.slim.min.map",
+        "jquery.min.map",
+        "jquery.js"
+      ]
+    },
+    {
+      "library": "font-awesome@6.4.0",
+      "destination": "wwwroot/lib/font-awesome/",
+      "files": [
+        "css/all.min.css",
+        "css/all.css",
+        "css/fontawesome.css",
+        "css/fontawesome.min.css",
+        "webfonts/fa-v4compatibility.woff2",
+        "webfonts/fa-v4compatibility.ttf",
+        "webfonts/fa-solid-900.woff2",
+        "webfonts/fa-solid-900.ttf",
+        "webfonts/fa-regular-400.woff2",
+        "webfonts/fa-regular-400.ttf",
+        "webfonts/fa-brands-400.woff2",
+        "webfonts/fa-brands-400.ttf"
+      ]
+    }
+  ]
+}
